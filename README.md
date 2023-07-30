@@ -28,3 +28,5 @@ When using any Win32 code from this repo in production, always consult the [Wind
 * [Source code for Charles Petzold's Programming Windows 5th edition](https://github.com/yottaawesome/programming-windows-5th-edition)
 * [Source code for Jeffrey Richter and Christophe Nasarre's Windows via C/C++ 5th edition](https://github.com/yottaawesome/windows-via-c-cpp)
 * [ZetCode's Windows API tutorial](https://zetcode.com/gui/winapi/)
+
+/add comment /
